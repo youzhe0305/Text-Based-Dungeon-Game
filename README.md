@@ -1,2 +1,18 @@
 # Text-Based-Dungeon-Game
-Homework of NYCU-OOP&amp;DS, thought by 詹力韋 教授
+
+## Overview
+
+隨機生成的地下城，玩家需要擊敗裡面的所有怪物及探索完所有房間以獲得勝利
+
+採用回合制戰鬥，設有裝備系統與技能系統，設計了25種裝備以及10種技能，每種技能都有自己的戰吼效果，以及不同的傷害計算、buff疊加效果
+
+在地下城中，會遇到不同的怪物，打敗怪物時，可以從怪物身上學到技能，也有菁英怪，可以學到特別強力的技能。
+一路上也會遇到不同的NPC，可以與之交易，或是觸發NPC特殊劇情，學會特殊技能。
+
+## background
+
+Homework of NYCU-OOP&DS, thought by 詹力韋 教授
+
+## 使用方法
+
+直接運行main.cpp即可
